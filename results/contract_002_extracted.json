@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Maryland",
+      "page": 5,
+      "exact_text": "This Agreement shall be construed and governed in accordance with the laws of the State of Maryland regardless of the place or places of its physical execution and performance.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Each party shall have the right to conduct an audit after the end of each calendar year to verify the accuracy of the other party's quarterly reports.",
+      "page": 4,
+      "exact_text": "Each party shall have the right to conduct an audit after the end of each calendar year to verify the accuracy of the other party's quarterly reports for that year, provided the audit must be initiated no later than June 30th of each year, and that if no such audit is conducted, then the quarterly reports for that year will be deemed accurate.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Maryland",
+    "payment_terms": "Payments due shall be made within 45 days of the close of each calendar quarter.",
+    "notice_period": "60 days for termination of office space license; two weeks for Axiometric to terminate office space use.",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_002.pdf",
+    "processing_time_s": 19.96,
+    "status": "success"
+  }
+}

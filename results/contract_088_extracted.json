@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of New York",
+      "page": 20,
+      "exact_text": "11.6 Governing Law. This Agreement, the rights and obligations of the parties hereto, and any claims or disputes thereto, shall be governed by and construed in accordance with the laws of the State of New York without reference to conflict of law principles.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "World Book may conduct audits of HSWI's records to confirm payments with reasonable notice.",
+      "page": 11,
+      "exact_text": "HSWI shall also provide reasonable assistance to World Book or its designated agent to conduct audits to confirm the payments hereunder. Any such audit will be conducted upon [*] ([*]) days notice and during regular business hours, and shall be at [*] expense, unless such audit reveals a discrepancy of more than [*] percent ([*]%) in the total applicable amount reported by HSWI, in which case [*] shall pay for, or reimburse [*] the cost of, such audit.",
+      "confidence": 0.9,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of New York",
+    "payment_terms": "Payments/Advances due as specified, Excess Royalties within [*] days after calendar year end",
+    "notice_period": null,
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_088.pdf",
+    "processing_time_s": 14.4,
+    "status": "success"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Delaware",
+      "page": 27,
+      "exact_text": "This Agreement shall be binding on the Parties as of the date hereof and is to be construed in accordance with and governed by the internal laws of the State of Delaware without giving effect to any choice of law rule that would cause the application of the laws of any jurisdiction other than the internal laws of the State of Delaware to the rights and duties of the Parties.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Each Party shall keep and maintain accurate books and records of all matters relating to the performance of its obligations hereunder, including without limitation the sale of advertising, in accordance with generally accepted accounting principles.",
+      "page": 9,
+      "exact_text": "Each Party shall keep and maintain accurate books and records of all matters relating to the performance of its obligations hereunder, including without limitation the sale of advertising, in accordance with generally accepted accounting principles. During the Term and for a period of three (3) years thereafter, each Party, at its sole expense, shall, upon reasonable advance notice from the other party, make such books and records available at its offices for inspection and audit by the other party, its employees and agents.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "Network Affiliate and its affiliates agree not to engage or participate in any business that competes with any business that NCM is authorized to conduct in the Territory during the Term.",
+      "page": 27,
+      "exact_text": "During the Term, except as otherwise provided in this Agreement, Network Affiliate and its affiliates agree not to engage or participate in any business, hold equity interests, directly or indirectly, in another entity, whether currently existing or hereafter created, or participate in any other joint venture that competes or would compete with any business that NCM is authorized to conduct in the Territory pursuant to this Agreement, whether or not NCM is actually conducting such business in a particular portion of the Territory.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": "During the Term and for a period of twelve (12) months thereafter Network Affiliate will not, without NCM's prior written consent, either alone or in concert with others directly or indirectly solicit, entice, induce, or encourage any employee, contractor or agent of NCM to terminate his or her employment, contractor or agency relationship with NCM.",
+      "page": 21,
+      "exact_text": "During the Term and for a period of twelve (12) months thereafter Network Affiliate will not, without NCM's prior written consent, either alone or in concert with others directly or indirectly solicit, entice, induce, or encourage: (i) any employee, contractor or agent of NCM to terminate his or her employment, contractor or agency relationship with NCM...",
+      "confidence": 1.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Delaware",
+    "payment_terms": "within five (5) days after the effective date of termination",
+    "notice_period": "not later than 180 days, nor sooner than 270 days, before the end of the Initial Term",
+    "liability_cap": "the amount of the net revenue received by NCM pursuant to Section 7.2 during the five (5) year period preceding such liability"
+  },
+  "_metadata": {
+    "source_file": "contract_095.pdf",
+    "processing_time_s": 15.21,
+    "status": "success"
+  }
+}

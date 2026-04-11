@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.7
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Delaware",
+      "page": 1,
+      "exact_text": "(g) Governing Law; Choice of Venue. (i) This Agreement shall be governed by and construed in accordance with the internal laws of the State of Delaware applicable to agreements made and to be performed within that state, without giving effect to any law or principals of law that would result in the application of the laws of any other jurisdiction.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Delaware",
+    "payment_terms": null,
+    "notice_period": null,
+    "liability_cap": "$250,000"
+  },
+  "_metadata": {
+    "source_file": "contract_099.pdf",
+    "processing_time_s": 10.8,
+    "status": "success"
+  }
+}

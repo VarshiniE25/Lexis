@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": null,
+    "payment_terms": null,
+    "notice_period": "promptly after receipt of notice of commencement of any action, suit, claim or proceeding",
+    "liability_cap": "amount paid (excluding reimbursable expenses) to the Agent under this Agreement"
+  },
+  "_metadata": {
+    "source_file": "contract_009.pdf",
+    "processing_time_s": 11.59,
+    "status": "success"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Tennessee",
+      "page": 5,
+      "exact_text": "This Agreement has been entered into in the State of Tennessee, and the validity, interpretation and legal effect of this Agreement will be governed by the laws of the State of Tennessee applicable to contracts entered into and performed entirely within the State of Tennessee.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Either party, at its sole expense, upon at least thirty (30) days written notice (and not more than once in respect of any accounting period) will have the right to inspect the other party's books regarding the obligations hereunder for a period of two (2) years from the date on which any statement is rendered.",
+      "page": 3,
+      "exact_text": "Either party, at its sole expense, upon at least thirty (30) days written notice (and not more than once in respect of any accounting period) will have the right to inspect the other party's books regarding the obligations hereunder for a period of two (2) years from the date on which any statement is rendered.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Tennessee",
+    "payment_terms": null,
+    "notice_period": "six-months (6-months)",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_030.pdf",
+    "processing_time_s": 18.77,
+    "status": "success"
+  }
+}

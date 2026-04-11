@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": "Parties may make available, during normal business hours, all records, books, agreements, policies and procedures relating to the use and/or disclosure of Confidential Information for the purpose of enabling a Party to verify the other Party’s compliance.",
+      "page": 1,
+      "exact_text": "e. Make available, during normal business hours, at a Party=s offices all records, books, agreements, policies and procedures relating to the use and/or disclosure of Confidential Information that is subject to this Agreement, to the other Party within ten (10) days of a Party's written request, for the purpose of enabling a Party to verify the other Party=s compliance with the terms of this Agreement;",
+      "confidence": 0.9,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Florida",
+    "payment_terms": null,
+    "notice_period": "thirty (30) days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_006.pdf",
+    "processing_time_s": 14.23,
+    "status": "success"
+  }
+}

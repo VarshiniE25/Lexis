@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of Hong Kong",
+      "page": 5,
+      "exact_text": "This Agreement is governed by and shall be construed in accordance with the laws of Hong Kong",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Hong Kong",
+    "payment_terms": "US$1.1 million for a term of twenty (20) years, in five instalments of US$220,000 each",
+    "notice_period": "thirty (30) days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_091.pdf",
+    "processing_time_s": 6.74,
+    "status": "success"
+  }
+}

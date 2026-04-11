@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California",
+      "page": 15,
+      "exact_text": "a) Governing Law. The Agreement will be governed by and construed in accordance with the laws of the State of California, notwithstanding the actual state or country of residence or incorporation of Application Provider.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "A party receiving payment and/or User Data records may inspect the other party's records once every 12 months to verify for accuracy.",
+      "page": 15,
+      "exact_text": "Once every 12 months, the party receiving payment and/or User Data records or its designee may inspect such records to verify for accuracy.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "non_compete": {
+      "value": "Application Provider will not solicit any Excite@Home Member on behalf of any Excite@Home Named Competitor during the Term of this Agreement or thereafter.",
+      "page": 4,
+      "exact_text": "Application Provider will not solicit any Excite@Home Member on behalf of any Excite@Home Named Competitor during the Term of this Agreement or thereafter.",
+      "confidence": 0.9,
+      "validated": true
+    },
+    "non_solicitation": {
+      "value": "Application Provider will not solicit any Excite@Home Member on behalf of any Excite@Home Named Competitor during the Term of this Agreement or thereafter.",
+      "page": 4,
+      "exact_text": "Application Provider will not solicit any Excite@Home Member on behalf of any Excite@Home Named Competitor during the Term of this Agreement or thereafter.",
+      "confidence": 0.9,
+      "validated": true
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of California",
+    "payment_terms": null,
+    "notice_period": null,
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_031.pdf",
+    "processing_time_s": 28.94,
+    "status": "success"
+  }
+}

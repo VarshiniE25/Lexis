@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of New York",
+      "page": 8,
+      "exact_text": "This Agreement will be construed and interpreted in accordance with the laws of the State of New York without reference to its conflicts of laws principles or the conflicts of laws principles of any other jurisdiction, and each of the parties hereto expressly attorns to the jurisdiction of the courts of the State of New York.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of New York",
+    "payment_terms": "monthly in arrears",
+    "notice_period": "30 days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_066.pdf",
+    "processing_time_s": 11.89,
+    "status": "success"
+  }
+}

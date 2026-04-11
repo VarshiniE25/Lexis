@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California",
+      "page": 21,
+      "exact_text": "This Agreement has been executed and delivered in Los Angeles County in the State of California, and its interpretation, validity and performance shall be construed and enforced in accordance with the laws of the State of California.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "AS Parties may inspect MusclePharm's facilities and test products for quality control once per year with reasonable notice.",
+      "page": 16,
+      "exact_text": "MusclePharm shall at all reasonable times during the Term (but no more than once during each Contract Year of the Term), and upon reasonable notice, permit the AS Parties to send their authorized representatives to inspect the facilities of MusclePharm or its agents in order to confirm that the production of the Licensed Products hereunder is in compliance with the quality standards set out herein and, at MusclePharm's expense, randomly test the formulas of the Licensed Products for quality control purposes, although the AS Parties will have no obligation to do so.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "California and New York",
+    "payment_terms": "within thirty (30) days from the end of each quarterly period",
+    "notice_period": "fifteen days prior written notice",
+    "liability_cap": "after-tax value of the Cash Consideration received by Lender"
+  },
+  "_metadata": {
+    "source_file": "contract_034.pdf",
+    "processing_time_s": 27.41,
+    "status": "success"
+  }
+}

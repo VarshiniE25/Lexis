@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Illinois",
+      "page": 4,
+      "exact_text": "This Agreement shall be interpreted, construed and enforced in all respects in accordance with the laws of the State of Illinois, except with regards to its rules regarding choice of law.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Illinois",
+    "payment_terms": "monthly",
+    "notice_period": "30 days",
+    "liability_cap": "total charges paid by ABW for the services during the most recent twelve (12) months of the Agreement"
+  },
+  "_metadata": {
+    "source_file": "contract_037.pdf",
+    "processing_time_s": 17.08,
+    "status": "success"
+  }
+}

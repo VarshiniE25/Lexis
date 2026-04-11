@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of New York",
+      "page": 31,
+      "exact_text": "This Agreement shall be construed in accordance with the laws of the State of New York without regard to principles of conflicts of law.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Tennessee",
+    "payment_terms": "next day funds",
+    "notice_period": null,
+    "liability_cap": "amount paid (excluding reimbursable expenses) to the Agent under this Agreement"
+  },
+  "_metadata": {
+    "source_file": "contract_013.pdf",
+    "processing_time_s": 15.29,
+    "status": "success"
+  }
+}

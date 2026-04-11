@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Georgia",
+      "page": 10,
+      "exact_text": "THIS AGREEMENT IS TO BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF GEORGIA",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Georgia",
+    "payment_terms": "Payment for Shares sold to be made at the offices of Flag Bank on each Closing Date",
+    "notice_period": null,
+    "liability_cap": "$5,000 without the consent of the Company"
+  },
+  "_metadata": {
+    "source_file": "contract_014.pdf",
+    "processing_time_s": 21.06,
+    "status": "success"
+  }
+}

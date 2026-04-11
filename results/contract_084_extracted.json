@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California",
+      "page": 4,
+      "exact_text": "ALL DISPUTES ARISING OUT OF THIS AGREEMENT SHALL BE SETTLED VIA BINDING ARBITRATION ACCORDING TO THE RULES AND REGULATIONS SET FORTH BY THE AMERICAN ARBITRATION ASSOCIATION IN SAN DIEGO COUNTY , THE STATE OF CALIFORNIA.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "California",
+    "payment_terms": "Within 30 days of the end of each quarter",
+    "notice_period": "Not less than sixty (60) days prior to the end of a Term",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_084.pdf",
+    "processing_time_s": 9.31,
+    "status": "success"
+  }
+}

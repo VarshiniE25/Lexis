@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California",
+      "page": 6,
+      "exact_text": "This Agreement shall be governed by the laws of the State of California, without regard to the conflicts of law provisions of any jurisdiction.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "Consultant does not presently perform or intend to perform, during the term of this Agreement, consulting or other services for, or engage in or intend to engage in an employment relationship with, companies whose businesses or proposed businesses in any way involve products or services which would be competitive with the Company's products or services.",
+      "page": 1,
+      "exact_text": "Consultant does not presently perform or intend to perform, during the term of this Agreement, consulting or other services for, or engage in or intend to engage in an employment relationship with, companies who businesses or proposed businesses in any way involve products or services which would be competitive with the Company's products or services, or those products or services proposed or in development by the Company during the term of this Agreement.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": "Consultant shall not solicit or hire away any person employed by the Company for a period of five (5) years.",
+      "page": 4,
+      "exact_text": "Consultant expressly agrees that he will not, without the prior written consent of the Company, either directly or indirectly on his own behalf, or in the service or on behalf of others, solicit, divert or hire away, or attempt to solicit, divert or hire away any person employed by the Company for a period of five (5) years for any reason, and without limitation for the purpose of harming the Company or of obtaining and disseminating its trade secrets, or other proprietary and confidential information.",
+      "confidence": 1.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "California",
+    "payment_terms": "monthly",
+    "notice_period": "30 days",
+    "liability_cap": "total fees paid in prior 12 months"
+  },
+  "_metadata": {
+    "source_file": "contract_060.pdf",
+    "processing_time_s": 8.43,
+    "status": "success"
+  }
+}

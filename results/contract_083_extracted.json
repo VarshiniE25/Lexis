@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California",
+      "page": 8,
+      "exact_text": "This Agreement is to be governed by and construed in accordance with the Laws of the State of California applicable to contracts made and to be performed wholly within such State, and without regard to the conflicts of laws principles thereof.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Licensors have the right to inspect COMPANY's books and records upon reasonable notice.",
+      "page": 2,
+      "exact_text": "The Licensors shall have the right, upon reasonable notice, to inspect COMPANY'S books and records and all other documents and material in COMPANY'S possession or control with respect to the Content each has or might license to CONTENT PROVIDER which becomes the subject matter of this Agreement (and only with respect to Content each has or might license to CONTENT PROVIDER which become the subject matter hereof).",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "California, United States",
+    "payment_terms": "Net Advertising Revenue payable no later than sixty (60) days after the termination of the preceding full quarter-annual period",
+    "notice_period": "thirty (30) days written notice for breach; ten (10) days advance notice for termination by COMPANY",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_083.pdf",
+    "processing_time_s": 9.86,
+    "status": "success"
+  }
+}

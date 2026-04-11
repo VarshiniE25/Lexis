@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of New York",
+      "page": 5,
+      "exact_text": "This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York, without giving effect to the conflict of laws principles thereof.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of New York",
+    "payment_terms": "monthly within twenty-five (25) business days following receipt of reports",
+    "notice_period": "thirty (30) days after written notice for termination for cause; ten (10) days after notice for termination for bankruptcy",
+    "liability_cap": "limited to direct damages"
+  },
+  "_metadata": {
+    "source_file": "contract_024.pdf",
+    "processing_time_s": 19.39,
+    "status": "success"
+  }
+}

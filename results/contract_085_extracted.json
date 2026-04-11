@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "PRC Law",
+      "page": 8,
+      "exact_text": "11.1 The execution, validity, interpretation, enforcement and dispute resolution of this Agreement shall be governed by the PRC Law.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "PRC Law",
+    "payment_terms": null,
+    "notice_period": "thirty (30) Business Days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_085.pdf",
+    "processing_time_s": 6.08,
+    "status": "success"
+  }
+}

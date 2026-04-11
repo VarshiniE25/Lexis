@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Nevada",
+      "page": 3,
+      "exact_text": "This Agreement shall be interpreted under the laws of the State of Nevada.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "SC&W agrees not to serve in a strategic marketing capacity for another insurer in Nevada while it is providing such services for MICOA or for a period of one year thereafter.",
+      "page": 5,
+      "exact_text": "SC&W agrees not to serve in a strategic marketing capacity for another insurer in Nevada while it is providing such services for MICOA or for a period of one year thereafter.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Nevada",
+    "payment_terms": "within 30 business days of the month in which such premiums are received and recorded by MICOA",
+    "notice_period": "at least one hundred twenty (120) days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_012.pdf",
+    "processing_time_s": 5.38,
+    "status": "success"
+  }
+}

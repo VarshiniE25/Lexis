@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of New York",
+      "page": 27,
+      "exact_text": "This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Delaware",
+    "payment_terms": "25 basis points (0.25%) of the Accreted Value of the Remarketed Securities on the Remarketing Settlement Date",
+    "notice_period": "prior to 5:00 p.m. on the date immediately preceding the Commencement Date",
+    "liability_cap": "total fees received by the Remarketing Agent pursuant to Section 4(a)"
+  },
+  "_metadata": {
+    "source_file": "contract_092.pdf",
+    "processing_time_s": 9.04,
+    "status": "success"
+  }
+}

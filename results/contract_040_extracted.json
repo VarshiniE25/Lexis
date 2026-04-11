@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California and the United States",
+      "page": 5,
+      "exact_text": "This Agreement and any action related thereto shall be governed, controlled, interpreted and defined by and under the laws of the State of California and the United States, without regard to the conflicts of laws provisions thereof.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "NETTAXI has the right to audit SpinRecords.com's records once every twelve months with reasonable prior notice.",
+      "page": 9,
+      "exact_text": "Upon reasonable prior notice, NETTAXI will have the right, exercisable not more than once every twelve (12) months, to appoint an independent accounting firm or other agent reasonably acceptable to SpinRecords.com, at NETTAXI'S expense, to examine such books, records and accounts during SpinRecords.com's normal business hours to verify the amounts due by SpinRecords.com to NETTAXI herein.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of California and the United States",
+    "payment_terms": "within thirty (30) days of the end of each calendar quarter",
+    "notice_period": "sixty (60) days prior written notice",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_040.pdf",
+    "processing_time_s": 13.43,
+    "status": "success"
+  }
+}

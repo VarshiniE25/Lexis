@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Florida",
+      "page": 1,
+      "exact_text": "This Agreement and the legal relations among the Parties hereto shall be governed by and construed in accordance with the laws of the State of Florida, without regard to its conflict of law doctrine.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Florida",
+    "payment_terms": "$250,000 cash compensation; additional compensation to be negotiated at the time of potential revenue recognition",
+    "notice_period": "with notice, effective date of termination shall be the date such notice is received",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_062.pdf",
+    "processing_time_s": 6.59,
+    "status": "success"
+  }
+}

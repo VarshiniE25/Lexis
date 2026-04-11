@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": "Both Parties have right to examine and verify the electricity meters.",
+      "page": 4,
+      "exact_text": "3. Both Parties have right to examine and verify the electricity meters so as to make sure their accuracy.",
+      "confidence": 0.9,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "local people's court where Party A is located",
+    "payment_terms": "monthly according to the power generated; energy saving service fee paid before the 15th of each month",
+    "notice_period": "30 days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_098.pdf",
+    "processing_time_s": 5.09,
+    "status": "success"
+  }
+}

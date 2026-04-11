@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the Province of Ontario",
+      "page": 9,
+      "exact_text": "This Agreement shall be governed by and interpreted and enforced in accordance with the laws of the Province of Ontario and the Parties agree to abide by the jurisdiction of the Courts of Ontario.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Requesting Party may audit the other party's books and records upon seven days notice at its own expense, unless underpayment is determined.",
+      "page": 4,
+      "exact_text": "Any such audit shall take place upon not less than seven (7) days advance written notice, during normal business hours of normal business days and at reasonable intervals. Any such audit shall be at the requesting Party's expense, unless the audit determines that the other party has underpaid by 10% or more.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Province of Ontario, Canada and State of California, USA",
+    "payment_terms": "Monthly Payment due by the 10th day of each month",
+    "notice_period": "Seven (7) days advance written notice",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_028.pdf",
+    "processing_time_s": 21.77,
+    "status": "success"
+  }
+}

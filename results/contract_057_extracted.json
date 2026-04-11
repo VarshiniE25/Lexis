@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California",
+      "page": 2,
+      "exact_text": "This Agreement shall be construed and enforced in accordance with the laws of the State of California, without regard to the conflict of law principles of California or any other jurisdiction.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": "Consultant shall not, without Aduro's prior written consent, directly or indirectly, solicit or encourage any employee or contractor of Aduro or its affiliates to terminate employment with, or cease providing Services to, Aduro or its affiliates for twelve (12) months after the termination of this Agreement.",
+      "page": 2,
+      "exact_text": "From the Effective Date and for twelve (12) months after the termination of this Agreement (the \"Restricted Period\"), Consultant shall not, without Aduro's prior written consent, directly or indirectly, solicit or encourage any employee or contractor of Aduro or its affiliates to terminate employment with, or cease providing Services to, Aduro or its affiliates.",
+      "confidence": 1.0,
+      "validated": true
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of California",
+    "payment_terms": "monthly in arrears",
+    "notice_period": "prior written notice",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_057.pdf",
+    "processing_time_s": 7.02,
+    "status": "success"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Law of the Federal Republic of Germany",
+      "page": 8,
+      "exact_text": "Even in case of agreements with foreign (non-German) Software Publishers and Affiliates, the law of the Federal Republic of Germany applies.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Cologne, Germany",
+    "payment_terms": "monthly if sum due exceeds 100 EUR / 100 USD",
+    "notice_period": "written notification or suitable settings in Control Panel",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_003.pdf",
+    "processing_time_s": 9.4,
+    "status": "success"
+  }
+}

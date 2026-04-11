@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Substantive law of the Commonwealth of Pennsylvania",
+      "page": 8,
+      "exact_text": "the arbitrator will be obligated to apply and follow the substantive law of the Commonwealth of Pennsylvania.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": "The Auditing Party has the right to audit the financial records of the Audited Party relating to payments made under the Agreement.",
+      "page": 6,
+      "exact_text": "During the 18-month period following the payment by one party of any amount due under this Agreement to the other party, the party receiving payment (the \"Auditing Party\") shall have the right to have an independent third party (the \"Auditor\") audit the financial records of the other party (the \"Audited Party\") relating to such payment to verify the accuracy of the Audited Party's financial records in order to verify the amount of the payments owed and/or paid.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "VerticalNet shall not, directly or indirectly, by itself, through its Affiliates or through any type of joint venture or similar affiliation with a third party, without prior written approval from PaperExchange, buy, sell or trade paper pulp products through exchanges, auctions, or reverse auctions.",
+      "page": 5,
+      "exact_text": "During the Term and for a period of four years after the termination of this Agreement, VerticalNet shall not, directly or indirectly, by itself, through its Affiliates or through any type of joint venture or similar affiliation with a third party, without prior written approval from PaperExchange, buy, sell or trade (a) paper pulp products through exchanges, auctions, or reverse",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Commonwealth of Pennsylvania",
+    "payment_terms": "immediately available U.S. funds, without set-off or counterclaim",
+    "notice_period": "30 days prior to the end of the Initial Term or then current Renewal Term",
+    "liability_cap": "$1,000,000"
+  },
+  "_metadata": {
+    "source_file": "contract_036.pdf",
+    "processing_time_s": 28.28,
+    "status": "success"
+  }
+}

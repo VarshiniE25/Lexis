@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Florida",
+      "page": 9,
+      "exact_text": "This Agreement will be governed by the laws of the State of Florida without regard to conflicts of law provisions.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Florida",
+    "payment_terms": "quarterly upon receipt from the wireless carriers",
+    "notice_period": "30 days written notice of the breach",
+    "liability_cap": "amount actually due to IMNTV herein"
+  },
+  "_metadata": {
+    "source_file": "contract_073.pdf",
+    "processing_time_s": 9.06,
+    "status": "success"
+  }
+}

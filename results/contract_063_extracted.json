@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Texas",
+      "page": 3,
+      "exact_text": "This Agreement shall be governed by the laws of the State of Texas, without reference to its conflicts of law principles.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "Consultant agrees that, during the term of this Agreement, Consultant will not directly or indirectly participate in the formation of any business or commercial entity in the Field of Interest or otherwise competitive with the Company.",
+      "page": 3,
+      "exact_text": "Consultant agrees that, during the term of this Agreement, Consultant will not directly or indirectly (i) participate in the formation of any business or commercial entity in the Field of Interest or otherwise competitive with the Company.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Texas",
+    "payment_terms": "payable in accordance with the Company's standard payroll schedule",
+    "notice_period": "prior written notice",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_063.pdf",
+    "processing_time_s": 6.86,
+    "status": "success"
+  }
+}

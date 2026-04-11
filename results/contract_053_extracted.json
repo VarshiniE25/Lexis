@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": "Requesting Party may audit the other Party's records once per year with reasonable advance notice.",
+      "page": 29,
+      "exact_text": "9.2 Audit Rights. Upon the written request of a Party (\"Requesting Party\") with reasonable advance notice and not more than once in each Calendar Year, the other Party shall permit an independent certified public accounting firm of nationally recognized standing selected by Requesting Party and reasonably acceptable to the other Party, at its own expense, to have access during normal business hours to such of the records as may be reasonably necessary to verify the accuracy of the reports under Section 8 for any Calendar Year ending not more than thirty-six (36) months prior to the date of such request.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "Green Cross shall not (either by itself, or with or through a Related Party or Third Party) Develop or Commercialize any Competing Product.",
+      "page": 29,
+      "exact_text": "During the Term, Green Cross shall not (either by itself, or with or through a Related Party or Third Party) Develop or Commercialize any (i) Product outside of the scope of this Agreement or (ii) Competing Product.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": null,
+    "payment_terms": "within *** after the event for which the payment is due; due on the ninetieth (90) day following the close of each Calendar Quarter",
+    "notice_period": "*** after notice requesting cure of the breach; within *** of Green Cross' receipt of such written notice of the Change in Control",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_053.pdf",
+    "processing_time_s": 16.58,
+    "status": "success"
+  }
+}

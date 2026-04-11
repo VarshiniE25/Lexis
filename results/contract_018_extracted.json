@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Delaware",
+    "payment_terms": "by wire transfer of immediately available funds no later than 2:00 p.m. (Eastern Time) on the date that such payment is due",
+    "notice_period": "at least thirty (30) days' prior notice",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_018.pdf",
+    "processing_time_s": 16.28,
+    "status": "success"
+  }
+}

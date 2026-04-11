@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of New York or Illinois",
+      "page": 7,
+      "exact_text": "This Agreement will be governed by the laws of the state where a suit is properly filed under the terms of this paragraph, being either Illinois or New York, and without giving effect to conflict of law principles.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "About has the right to examine ebix's books and records to verify payment accuracy with 30 days notice.",
+      "page": 4,
+      "exact_text": "About shall have the right to examine, or to have examined by a representative of About, ebix's books and records to verify the accuracy of payments made to About for a maximum period of last 6 months preceding a written notice of About, pursuant to this Agreement. About shall provide ebix with at least thirty (30) days' prior notice of an audit and such audit shall be conducted at ebix's offices for a maximum period of two business days, during regular business hours, subject to ebix's cooperation.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Illinois or New York",
+    "payment_terms": null,
+    "notice_period": "thirty (30) days",
+    "liability_cap": "total fees paid in prior 12 months"
+  },
+  "_metadata": {
+    "source_file": "contract_025.pdf",
+    "processing_time_s": 21.19,
+    "status": "success"
+  }
+}

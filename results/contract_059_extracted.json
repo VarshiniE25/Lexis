@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the Province of British Columbia and the federal laws of Canada",
+      "page": 5,
+      "exact_text": "18.1 Unless otherwise agreed to in writing by the parties, the Agreement shall be governed by and construed in accordance with the laws of the Province of British Columbia and the federal laws of Canada applicable therein, and the parties hereto submit and attorn to the jurisdiction of the courts of the Province of British Columbia.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": "The Consultant shall not solicit the employment of or otherwise entice away from the employment of the Company or any of the Affiliated Companies any individual who is employed or engaged by the Company or any of the Affiliated Companies.",
+      "page": 5,
+      "exact_text": "7.1 The Consultant covenants, undertakes and agrees with the Company that during the Term and for a period of one year from the date of expiration or termination of this Agreement for any reason whatsoever, it shall not, on its own behalf or on behalf of any person, whether directly or indirectly, in any capacity whatsoever, offer employment to or solicit the employment of or otherwise entice away from the employment of the Company or any of the Affiliated Companies, any individual who is employed or engaged by the Company or any of the Affiliated Companies at the date of expiration or termination of this Agreement or who was employed or engaged by the Company or any of the Affiliated Companies, within the one year period immediately preceding the date of expiration or termination of this Agreement, as applicable.",
+      "confidence": 1.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Province of British Columbia, Canada",
+    "payment_terms": "monthly in arrears",
+    "notice_period": null,
+    "liability_cap": "CDN$750,000"
+  },
+  "_metadata": {
+    "source_file": "contract_059.pdf",
+    "processing_time_s": 14.79,
+    "status": "success"
+  }
+}

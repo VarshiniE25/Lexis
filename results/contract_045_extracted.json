@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Delaware",
+      "page": 6,
+      "exact_text": "This Agreement and the rights and obligations of the Parties hereunder will be governed by the laws of the State of Delaware without regard to the conflict of laws provisions of any jurisdiction.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Each Party will provide the other Party with the right to inspect such records, and upon request will provide copies of all such records.",
+      "page": 3,
+      "exact_text": "Each Party will provide the other Party with the right to inspect such records, and upon request will provide copies of all such records, to the extent reasonably required for the exercise or performance of such other Party's rights or obligations under this Agreement, provided that any information disclosed under this Section 2.7 will be subject to the terms and conditions of Section 5.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Delaware",
+    "payment_terms": "30 days after receipt of invoice",
+    "notice_period": "30 days",
+    "liability_cap": "total fees paid in prior 12 months"
+  },
+  "_metadata": {
+    "source_file": "contract_045.pdf",
+    "processing_time_s": 9.5,
+    "status": "success"
+  }
+}

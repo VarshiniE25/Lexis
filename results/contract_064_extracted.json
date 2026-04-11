@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the Commonwealth of Virginia",
+      "page": 6,
+      "exact_text": "This Agreement shall be interpreted, construed, governed, and enforced according to the laws of the Commonwealth of Virginia, without giving effect to its conflict of laws principles.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "CONSULTANT agrees that during its consultancy for REIT and for a period of twelve (12) months immediately following the termination of its consultancy with the Company for any reason, whether with or without cause, it will not: (a) have any ownership interest in, or participate in the financing, operation, management or control of, any Competitor; or (b) engage in or perform services for any Competitor.",
+      "page": 4,
+      "exact_text": "CONSULTANT agrees that during its consultancy for REIT and for a period of twelve (12) months immediately following the termination of its consultancy with the Company for any reason, whether with or without cause, it will not: (a) have any ownership interest in, or participate in the financing, operation, management or control of, any Competitor; or (b) engage in or perform services for any Competitor, if such services either (1) are the same as or similar to (individually or in the aggregate) the services CONSULTANT performed for the Company during its consultancy with the Company, or (2) are performed with respect to products or services of the Competitor that are competitive with the products or services provided by the Company with which CONSULTANT was involved during its consultancy with the Company or about which it received Proprietary Information during its consultancy with the Company.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": "Consultant agrees that during its consultancy for REIT and for a period of twelve (12) months immediately following the termination of its consultancy with the Company for any reason, whether with or without cause, it will not solicit, induce, recruit or encourage any of the Company's employees.",
+      "page": 1,
+      "exact_text": "CONSULTANT agrees that during its consultancy for REIT and for a period of twelve (12) months immediately following the termination of its consultancy with the Company for any reason, whether with or without cause, it will not, for itself or any other person or entity: (a) solicit, induce, recruit or encourage any of the Company's employees, contractors, independent contractors or any person who provides services to the Company to terminate or reduce their employment or other relationship with the Company;",
+      "confidence": 1.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Commonwealth of Virginia",
+    "payment_terms": "annual fee payable in 12 equal monthly installments or 24 equal semi-monthly installments",
+    "notice_period": "ninety (90) days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_064.pdf",
+    "processing_time_s": 14.08,
+    "status": "success"
+  }
+}

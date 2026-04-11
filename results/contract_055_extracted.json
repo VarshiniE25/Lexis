@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": null,
+    "payment_terms": "Payments of the Total Amount and of the Technology Access Fee due and payable in accordance with Section 5.2.3 and 5.2.4",
+    "notice_period": "Thirty (30) days after written notice",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_055.pdf",
+    "processing_time_s": 13.53,
+    "status": "success"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Florida",
+      "page": 6,
+      "exact_text": "Governing Law. All questions with respect to the construction of this Agreement, and the rights and liabilities of the Parties hereto, shall be governed by the laws of the State of Florida.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Each of the Parties may, at its own expense, audit the other Party's compliance with this Agreement.",
+      "page": 7,
+      "exact_text": "Audit. Each of the Parties may, at its own expense, audit the other Party's compliance with this Agreement, including but not limited to,",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Florida",
+    "payment_terms": null,
+    "notice_period": null,
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_072.pdf",
+    "processing_time_s": 6.83,
+    "status": "success"
+  }
+}

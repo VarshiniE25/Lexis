@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the United States of America",
+      "page": 3,
+      "exact_text": "This Agreement shall be governed and construed in accordance with the laws of the United States of America.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "plan_b shall bear the cost of the audit and shall in any event immediately pay to LICENSOR the full value of the underpaid or under-reported fees.",
+      "page": 1,
+      "exact_text": "payments for the period covered by the audit, plan_b shall bear the cost of the audit and shall in any event immediately pay to LICENSOR the full value of the underpaid or under-reported fees. Such audits shall normally be conducted during normal business hours at plan_b's premises.",
+      "confidence": 0.9,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "New York City, New York, USA",
+    "payment_terms": "30 days after receipt of invoice",
+    "notice_period": null,
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_070.pdf",
+    "processing_time_s": 5.68,
+    "status": "success"
+  }
+}

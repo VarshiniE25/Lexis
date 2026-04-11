@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California",
+      "page": 6,
+      "exact_text": "This Agreement will be governed and construed in accordance with the laws of the State of California without giving effect to conflict of laws principles.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "2TheMart may inspect and audit i-Escrow's records once every twelve months with 15 days notice.",
+      "page": 2,
+      "exact_text": "Once every twelve (12) months, 2TheMart through a CPA may inspect and audit such records to verify reports. Any such inspection will be conducted in a manner that does not unreasonably interfere with i-Escrow's business activities and with no less than fifteen (15) days notice.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "California",
+    "payment_terms": "i-Escrow shall pay all amounts owed to 2TheMart within six (6) weeks of termination",
+    "notice_period": "thirty (30) days",
+    "liability_cap": "total fees paid in prior 12 months"
+  },
+  "_metadata": {
+    "source_file": "contract_022.pdf",
+    "processing_time_s": 30.61,
+    "status": "success"
+  }
+}

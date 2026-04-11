@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Substantive law of the Commonwealth of Pennsylvania",
+      "page": 5,
+      "exact_text": "in all other respects, the arbitrator will be obligated to apply and follow the substantive law of the Commonwealth of Pennsylvania.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Pennsylvania",
+    "payment_terms": "Payments due within 30 days after the end of the initial Term",
+    "notice_period": "90 days prior to the expiration of the initial Term",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_032.pdf",
+    "processing_time_s": 18.33,
+    "status": "success"
+  }
+}

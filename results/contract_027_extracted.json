@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.8
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "the laws of the State of California",
+      "page": 6,
+      "exact_text": "the laws of the State of California without reference to its choice of law rules.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "California",
+    "payment_terms": "quarterly fees on or prior to specified dates",
+    "notice_period": null,
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_027.pdf",
+    "processing_time_s": 18.65,
+    "status": "success"
+  }
+}

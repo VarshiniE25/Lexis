@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of Virginia and Texas",
+      "page": 5,
+      "exact_text": "8.05 GOVERNING LAW. All disputes or claims by Payment Data Systems hereunder shall be resolved by arbitration in McLean, Virginia, pursuant to the rules of the American Arbitration Association. All disputes or claims by NETWORK 1 hereunder shall be resolved by arbitration in San Antonio, Texas, pursuant to the rules of the American Arbitration Association.",
+      "confidence": 0.9,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "Affiliate shall not, without the express written consent of Network 1, engage in competitive activities with Network 1.",
+      "page": 3,
+      "exact_text": "Affiliate shall not, without the express written consent of Network 1: ... (iii) the providing of vendor services or merchant services by Affiliate or Contractor(s) located by Affiliate which are competitive with Network 1 or without the prior written consent of Network 1, contrary to Section 1.01 [CONTRACTORS] and IV, violation of any clause of Network 1 Affiliate Office Agreement and failure to cure such violation within 30 days of notification",
+      "confidence": 0.9,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": "Affiliate shall not approach, rewrite, pursue, or contract with any current client for the purpose of obtaining said client as a new customer for Affiliate or any competing entity.",
+      "page": 4,
+      "exact_text": "Additionally, upon termination of this contract for any reason, all merchants recruited by Affiliate on behalf of Network 1 for any product offered through Network 1, Affiliate shall not approach, rewrite, pursue, or contract with any current client for the purpose of obtaining said client as a new customer for Affiliate or any competing entity the Affiliate may be in contract with.",
+      "confidence": 0.9,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Virginia and Texas",
+    "payment_terms": "Affiliate's Fee described in Section 3.01 for so long as Network 1 continues to process transactions",
+    "notice_period": "120 days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_007.pdf",
+    "processing_time_s": 21.4,
+    "status": "success"
+  }
+}

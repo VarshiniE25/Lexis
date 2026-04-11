@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Delaware",
+      "page": 6,
+      "exact_text": "This Agreement shall be governed by and interpreted under the laws of the State of Delaware without regard to its conflicts of law provisions.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Delaware",
+    "payment_terms": "four equal quarterly installments beginning on May 31, 2000",
+    "notice_period": "30 days after written notice of breach",
+    "liability_cap": "neither party will be liable for any special, indirect, consequential, exemplary or incidental damages"
+  },
+  "_metadata": {
+    "source_file": "contract_029.pdf",
+    "processing_time_s": 16.67,
+    "status": "success"
+  }
+}

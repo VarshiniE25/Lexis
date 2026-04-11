@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": "CARDAX shall have the right to audit CAPSUGEL's facilities, quality systems and records from time to time upon reasonable notice.",
+      "page": 7,
+      "exact_text": "CARDAX shall have the right to audit CAPSUGEL's facilities, quality systems and records from time to time upon reasonable notice and CARDAX shall have the right to have a third party accounting firm, subject to a non-disclosure agreement, audit CAPSUGEL's financials as they relate to Net Sales and Adjusted Net Sales.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of New York",
+    "payment_terms": "Royalty Payment within [***] after the end of [***]",
+    "notice_period": "three (3) business day(s) after receiving contact from governmental authority",
+    "liability_cap": "total liability limited to the amount of revenues received under this Agreement"
+  },
+  "_metadata": {
+    "source_file": "contract_048.pdf",
+    "processing_time_s": 7.45,
+    "status": "success"
+  }
+}

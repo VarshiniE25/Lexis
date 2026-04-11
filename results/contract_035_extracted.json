@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.8
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Substantive law of the Commonwealth of Pennsylvania",
+      "page": 10,
+      "exact_text": "the arbitrator will be obligated to apply and follow the substantive law of the Commonwealth of Pennsylvania.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "Neoforma shall not place any advertisements on a Neoforma Site for any VerticalNet Competitor.",
+      "page": 6,
+      "exact_text": "7.1.4 During the Term, Neoforma shall not place any advertisements on a Neoforma Site for any VerticalNet Competitor.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Commonwealth of Pennsylvania",
+    "payment_terms": "within 30 days after the end of each calendar quarter during the Term",
+    "notice_period": "at least 30 days prior to the end of the Initial Term or then current Renewal Term",
+    "liability_cap": "$1,000,000"
+  },
+  "_metadata": {
+    "source_file": "contract_035.pdf",
+    "processing_time_s": 26.08,
+    "status": "success"
+  }
+}

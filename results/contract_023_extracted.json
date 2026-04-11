@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Washington",
+      "page": 12,
+      "exact_text": "This Agreement will be interpreted, construed and enforced in accordance with the Laws of the State of Washington, without reference to its choice of Laws rules.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Each Party may audit the other Party's books and records once per year with 30 days notice.",
+      "page": 9,
+      "exact_text": "Each Party (the \"Audited Party') will, upon at least thirty (30) days' prior written request by the other Party (the \"Auditing Party\"), allow an independent certified public accounting firm selected by the Auditing Party and reasonably acceptable to the Audited Party to audit such books and records at the Audited Party's premises to the extent necessary to verify the Audited Party's compliance or non-compliance with the provisions of this Section 9 (or, in the case of Company, Section 5.4 [Royalties]); provided, that: (a) any such audit is conducted during normal business hours and in a manner designed to not unreasonably interfere with the Audited Party's ordinary business operations; (b) audits may not occur more frequently than once every twelve (12) months; and (c) each such audit may only cover the period commencing after the period covered by the last audit conducted pursuant to this Section, if any.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Washington",
+    "payment_terms": "annual basis, in arrears, within thirty (30) days after the end of each Year",
+    "notice_period": "thirty (30) days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_023.pdf",
+    "processing_time_s": 31.75,
+    "status": "success"
+  }
+}

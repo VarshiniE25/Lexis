@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California",
+      "page": 8,
+      "exact_text": "This Agreement will for all purposes be governed by and interpreted in accordance with the laws of the State of California without giving effect to any conflict of laws principles that require the application of the laws of a different state.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "WPT may examine Zynga's records to verify royalties during business hours with advance notice.",
+      "page": 6,
+      "exact_text": "Zynga shall permit such records to be examined by authorized representatives of WPT, including such independent auditors as WPT may designate, during usual business hours, with advance notice, to verify to the extent necessary the Royalties paid hereunder.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of California",
+    "payment_terms": "Payments will only be paid if the amount owed to WPT for any reporting period is greater than five hundred dollars ($500.00).",
+    "notice_period": "Thirty (30) days",
+    "liability_cap": "No liability for special, indirect, consequential or punitive damages"
+  },
+  "_metadata": {
+    "source_file": "contract_068.pdf",
+    "processing_time_s": 7.04,
+    "status": "success"
+  }
+}

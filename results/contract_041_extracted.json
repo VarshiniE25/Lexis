@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of New York",
+      "page": 9,
+      "exact_text": "This Agreement shall be governed by, and construed in accordance with, the Laws of the State of New York, applicable to contracts executed in and to be performed entirely within that state.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of New York",
+    "payment_terms": null,
+    "notice_period": "six months prior to the expiration of the then-current term",
+    "liability_cap": "the amount that such party has earned pursuant to the revenue sharing provisions of Section 5.4 [Share of Net Revenue] in the twelve month period preceding the claim"
+  },
+  "_metadata": {
+    "source_file": "contract_041.pdf",
+    "processing_time_s": 22.13,
+    "status": "success"
+  }
+}

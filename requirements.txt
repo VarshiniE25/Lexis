@@ -1,0 +1,35 @@
+# Core PDF Processing
+PyMuPDF==1.24.5
+
+# ML / Embeddings
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+numpy==1.26.4
+torch==2.3.1
+transformers==4.42.4
+
+# LLM API
+openai==1.35.13
+
+# Data Validation
+pydantic==2.7.4
+
+# Async
+aiohttp==3.9.5
+
+# Caching
+diskcache==5.6.3
+
+# UI
+streamlit==1.36.0
+streamlit-extras==0.4.3
+
+# Utilities
+python-dotenv==1.0.1
+tenacity==8.3.0
+loguru==0.7.2
+tqdm==4.66.4
+rich==13.7.1
+
+# Batch Processing
+pandas==2.2.2

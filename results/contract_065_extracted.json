@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the Commonwealth of Massachusetts",
+      "page": 1,
+      "exact_text": "This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts without giving effect to any choice or conflict of law provision or rule that would cause the application of laws of any other jurisdiction.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "The Consultant shall not engage in any activity in the field described on Schedule A to this Agreement during the Consultation Period and for a period of one year thereafter.",
+      "page": 1,
+      "exact_text": "During the Consultation Period (as defined below) and for a period of one year thereafter, except in connection with his performance of the Services, the Consultant shall not engage in any activity in the field described on Schedule A to this Agreement, and he shall not assist any other person or organization that engages in any such activity.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": "The Consultant shall not solicit or hire any employee of the Company for one year after the Consultation Period.",
+      "page": 1,
+      "exact_text": "During the Consultation Period and for a period of one year thereafter, the Consultant shall not, either alone or in association with others, (i) solicit, or permit any organization directly or indirectly controlled by the Consultant to solicit, any employee of the Company to leave the employ of the Company; or (ii) solicit for employment, hire or engage as an independent contractor, or permit any organization directly or indirectly controlled by the Consultant to solicit for employment, hire or engage as an independent contractor, any person who is employed or engaged by the Company; provided, that this clause (ii) shall not apply to any individual whose employment with the Company has been terminated for a period of six months or longer.",
+      "confidence": 1.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Commonwealth of Massachusetts",
+    "payment_terms": "within thirty (30) days after receipt of itemized monthly statements",
+    "notice_period": "90 days' notice of termination before any successive period; thirty (30) days' written notice for Consultant",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_065.pdf",
+    "processing_time_s": 7.49,
+    "status": "success"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of New York",
+      "page": 15,
+      "exact_text": "the obligations of Affiliate and Network under this Agreement are subject to all applicable federal, state and local laws, rules and regulations, and this Agreement and all matters or issues collateral thereto shall be governed by the laws of the State of New York applicable to contracts to be entirely performed therein.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": null,
+    "payment_terms": null,
+    "notice_period": "thirty (30) days",
+    "liability_cap": "$1,000,000 each occurrence and $2,000,000 in the aggregate"
+  },
+  "_metadata": {
+    "source_file": "contract_005.pdf",
+    "processing_time_s": 24.47,
+    "status": "success"
+  }
+}

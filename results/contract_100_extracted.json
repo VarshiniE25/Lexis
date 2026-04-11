@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.7
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Delaware",
+      "page": 6,
+      "exact_text": "THIS AGREEMENT WILL BE GOVERNED IN ALL RESPECTS, INCLUDING VALIDITY, INTERPRETATION AND EFFECT, BY THE LAWS OF THE STATE OF DELAWARE WITHOUT GIVING EFFECT TO THE CHOICE OF LAW PRINCIPLES OF SUCH STATE.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Delaware",
+    "payment_terms": "dollar-for-dollar basis at the same time as the Company reimburses its third party vendors",
+    "notice_period": "ten (10) calendar days",
+    "liability_cap": "$650,000"
+  },
+  "_metadata": {
+    "source_file": "contract_100.pdf",
+    "processing_time_s": 10.01,
+    "status": "success"
+  }
+}

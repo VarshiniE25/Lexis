@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.85
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the Province of Ontario and the federal laws of Canada applicable in the Province of Ontario",
+      "page": 25,
+      "exact_text": "This Agreement shall be governed by and construed in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable in the Province of Ontario.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Province of Ontario, Canada",
+    "payment_terms": "3.5% of the number of Offered Shares sold pursuant to the Offering",
+    "notice_period": null,
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_019.pdf",
+    "processing_time_s": 18.43,
+    "status": "success"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of England and Wales",
+      "page": 26,
+      "exact_text": "under this Agreement will be brought exclusively in the courts located in England and Wales and the parties to this Agreement hereby consent to the exclusive personal jurisdiction and venue therein.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Each Party or its independent auditor shall have the right to audit the books of account and records of any and all such Parties.",
+      "page": 16,
+      "exact_text": "Not more than once per calendar quarter, each Party or its independent auditor (who shall be a certified public accountant) shall have the right, on not less than fifteen (15) calendar days prior notice and not during the first twenty (20) days after the close of any fiscal quarter of the other Parties, or within sixty (60) day of the close of such Parties' respective fiscal years, to audit the books of account and records of any and all such Parties.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "No Party, nor any of their respective Subsidiaries, will engage in competing products or services for three months following the launch of the Enterprise Skype Software.",
+      "page": 19,
+      "exact_text": "Each Party agrees that, from the Effective Date and through the three (3) month period ('Enterprise Non-Competition Period') immediately following the date ('Enterprise Launch Date') that Skype launches an enterprise version of the Skype Software primarily targeted for non-Consumer customers ('Enterprise Skype Software'), no Party, nor any of their respective Subsidiaries, will (i) discuss, negotiate or enter into (whether verbal or in writing) with any third Person or other third party ('Other Party') any understanding, arrangement, or memorandum of understanding, letter of intent, agreement or any other documents (whether or not legally binding); and/or (ii) voluntarily accept or solicit any offer made by any Other Party in respect of or in relation to, (a) in the case of Skype, an enterprise co-branded Internet-based application in simplified Chinese that is focused on, and targeted primarily at, non-Consumers within the PRC, and that is substantially similar in functionality and features as the Enterprise Skype Software, and (b) in the case of Online BVI, Tom Holding and the Company, any voice over internet protocol and/or instant messaging products or services that compete or are likely to compete with the Enterprise Skype Software.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "England and Wales",
+    "payment_terms": null,
+    "notice_period": "sixty (60) days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_044.pdf",
+    "processing_time_s": 27.85,
+    "status": "success"
+  }
+}

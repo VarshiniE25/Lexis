@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Nevada",
+      "page": 16,
+      "exact_text": "This Agreement shall be governed by and construed in accordance with the internal laws of the State of Nevada without giving effect to any choice or conflict of law provision or rule.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Licensee shall make books and records available for audit by Licensor during normal business hours.",
+      "page": 8,
+      "exact_text": "Licensee shall make such books and records, and appropriate personnel, available during normal business hours for audit by Licensor or its authorized representative; provided that Licensor shall: (a) provide Licensee with reasonable prior notice of any audit; (b) undertake an audit no more than once per calendar year, unless a prior audit has disclosed a balance due; and (c) conduct or cause to be conducted such audit in a manner designed to minimize disruption of Licensee's normal business operations.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Nevada",
+    "payment_terms": null,
+    "notice_period": "ninety (90) days",
+    "liability_cap": "aggregate amounts paid or payable to Licensor in the twelve (12) months preceding the commencement of the claim"
+  },
+  "_metadata": {
+    "source_file": "contract_078.pdf",
+    "processing_time_s": 7.05,
+    "status": "success"
+  }
+}

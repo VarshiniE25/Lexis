@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Lease Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of New York",
+      "page": 42,
+      "exact_text": "This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of New York",
+    "payment_terms": null,
+    "notice_period": "until the Settlement Date",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_017.pdf",
+    "processing_time_s": 21.7,
+    "status": "success"
+  }
+}

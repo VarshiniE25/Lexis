@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the People's Republic of China",
+      "page": 10,
+      "exact_text": "This Agreement and any dispute or claim arising out of or in connection with it or its subject matter shall be governed by, and construed in accordance with, the laws of the People's Republic of China (without regard to its conflicts of laws rules that would mandate the application of the laws of another jurisdiction).",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "People's Republic of China",
+    "payment_terms": null,
+    "notice_period": "thirty (30) days",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_069.pdf",
+    "processing_time_s": 12.41,
+    "status": "success"
+  }
+}

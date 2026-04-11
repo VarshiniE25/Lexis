@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": "Achaogen has the right to inspect and audit the Assay manufacturing process and records upon reasonable notice during the Term.",
+      "page": 14,
+      "exact_text": "Achaogen shall have the right to inspect and audit [***] per calendar year (either by itself or through a Third Party reasonably acceptable to Microgenics) the Assay manufacturing process, facilities, procedures and records upon reasonable notice (which shall be no less than [***] ([***]) calendar days prior notice, unless a shorter period is mutually agreed to by the Parties), and during normal business hours.",
+      "confidence": 0.9,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": null,
+    "payment_terms": "payment of all development payments described in Section 7.1",
+    "notice_period": "at least sixty (60) days prior written notice",
+    "liability_cap": "[***]"
+  },
+  "_metadata": {
+    "source_file": "contract_056.pdf",
+    "processing_time_s": 22.06,
+    "status": "success"
+  }
+}

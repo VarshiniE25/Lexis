@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Virginia",
+      "page": 3,
+      "exact_text": "This Agreement is governed by and construed in accordance with the laws of the State of Virginia.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Equidata may audit the Marketing Affiliate's marketing practices and activities at Equidata's expense.",
+      "page": 1,
+      "exact_text": "Equidata may audit, at Equidata's expense, the Marketing Affiliate's marketing, practices and activities for the purpose of assuring compliance with this Agreement. Equidata reserves the right to site inspect Marketing Affiliate's physical location of business at any time.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Virginia",
+    "payment_terms": "30 days from the invoice date",
+    "notice_period": "thirty (30) days written notice",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_004.pdf",
+    "processing_time_s": 15.48,
+    "status": "success"
+  }
+}

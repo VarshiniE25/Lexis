@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of New York, US",
+      "page": 58,
+      "exact_text": "This Agreement shall be governed by and construed in accordance with the laws of New York, US, without reference to its conflict of laws principles, and shall not be governed by the United Nations Convention of International Contracts on the Sale of Goods (the Vienna Convention).",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": "Each Party shall keep full, true and accurate books of account and shall have the right to audit the other Party's records.",
+      "page": 40,
+      "exact_text": "Each Party shall keep, and shall require its Affiliates and Sublicensees to keep, full, true and accurate books of account containing all particulars that may be necessary for the purpose of calculating all payments payable under this Agreement, including, for Roche, the right to audit materials necessary to ensure compliance with the most favored customer provisions of Article 5.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "New York, US",
+    "payment_terms": "within […***…] after Roche receives an invoice from FMI",
+    "notice_period": "at least […***…] prior written notice",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_051.pdf",
+    "processing_time_s": 18.55,
+    "status": "success"
+  }
+}

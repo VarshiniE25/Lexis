@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.9
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "PRC Laws",
+      "page": 11,
+      "exact_text": "The execution, validity, construction, enforcement and the settlement of any disputes herefrom shall be governed by PRC Laws.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": "Party A agrees not to enter into any form of cooperation with Qihoo 360 during the cooperation period.",
+      "page": 1,
+      "exact_text": "During the cooperation between the parties, Party A agrees not to enter into any form of cooperation with Qihoo 360, unless Party A needs such cooperation with Qihoo 360 for business or technology and Party B has provided its prior consent.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "PRC Laws",
+    "payment_terms": "monthly",
+    "notice_period": "one month prior to the expiry of the Cooperation Term",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_097.pdf",
+    "processing_time_s": 12.08,
+    "status": "success"
+  }
+}

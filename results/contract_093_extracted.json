@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.95
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of Delaware",
+      "page": 4,
+      "exact_text": "This Agreement will be governed in all respects by the laws of the State of Delaware, including its conflict with law provisions.",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "State of Delaware",
+    "payment_terms": "monthly",
+    "notice_period": "not specified",
+    "liability_cap": "total Commissions paid or payable by Chase to Affiliate under this Agreement"
+  },
+  "_metadata": {
+    "source_file": "contract_093.pdf",
+    "processing_time_s": 7.49,
+    "status": "success"
+  }
+}

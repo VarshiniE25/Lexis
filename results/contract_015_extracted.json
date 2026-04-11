@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "Service Agreement",
+    "confidence": 0.8
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the Commonwealth of Massachusetts",
+      "page": 6,
+      "exact_text": "This Agreement and all related business transactions will be governed by the laws of the Commonwealth of Massachusetts (without reference to principles of conflicts or choice of law which would cause the application of the internal laws of any other jurisdiction).",
+      "confidence": 1.0,
+      "validated": true
+    },
+    "audit_rights": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": "Commonwealth of Massachusetts",
+    "payment_terms": "Net 30 days from the date of statement, or net 45 days if paid via electronic funds transfer",
+    "notice_period": "30 days for termination due to failure to agree on a Business Plan, 5 days for material adverse publicity, 90 days for termination of veterinary products business",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_015.pdf",
+    "processing_time_s": 19.38,
+    "status": "success"
+  }
+}

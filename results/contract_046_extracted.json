@@ -1,0 +1,47 @@
+{
+  "contract_type": {
+    "value": "IP Agreement",
+    "confidence": 0.8
+  },
+  "clauses": {
+    "governing_law": {
+      "value": "Laws of the State of California",
+      "page": 61,
+      "exact_text": "14.5 (Governing Law; Dispute Resolution; Equitable Remedies)",
+      "confidence": 0.9,
+      "validated": false
+    },
+    "audit_rights": {
+      "value": "Each Party may audit the other Party's books and records once every [***] months with reasonable notice.",
+      "page": 41,
+      "exact_text": "At the request of the other Party, each Party will, and will cause its Affiliates to, permit an independent public accounting firm of nationally recognized standing designated by the other Party and reasonably acceptable to the audited Party, at reasonable times during normal business hours and upon reasonable notice, to audit the books and records maintained pursuant to Section 7.7 (Financial and Other Records) solely to confirm the accuracy of all financial reports, invoices and payments made hereunder or Budget spending under an approved Workflow Development Plan.",
+      "confidence": 1.0,
+      "validated": false
+    },
+    "non_compete": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    },
+    "non_solicitation": {
+      "value": null,
+      "page": null,
+      "exact_text": null,
+      "confidence": 0.0,
+      "validated": false
+    }
+  },
+  "fields": {
+    "jurisdiction": null,
+    "payment_terms": "within [***] ([***]) days after receipt of such BLI invoice",
+    "notice_period": "[***] ([***]) Business Days prior to the anticipated date of disclosure",
+    "liability_cap": null
+  },
+  "_metadata": {
+    "source_file": "contract_046.pdf",
+    "processing_time_s": 13.79,
+    "status": "success"
+  }
+}
