@@ -1,53 +1,77 @@
-# Lexis — AI-Powered Contract Intelligence System
+# 🚀 Lexis — AI-Powered Contract Intelligence System
 
-## 🚀 Overview
-Lexis is an AI-driven system designed to analyze legal contracts and extract meaningful insights such as clauses, risks, and key entities using Natural Language Processing (NLP).  
-It helps automate contract review, reducing manual effort and improving decision-making efficiency.
+## 🧠 Overview
+Lexis is an AI-powered contract intelligence system that leverages **LLMs and Retrieval-Augmented Generation (RAG)** to analyze legal documents and extract structured insights such as clauses, risks, and key entities.
+
+It transforms unstructured contracts into actionable intelligence, enabling faster and more reliable decision-making.
 
 ---
 
 ## 🎯 Problem Statement
 Manual contract analysis is:
-- Time-consuming
-- Error-prone
-- Requires domain expertise
+- Time-consuming and inefficient  
+- Prone to human error  
+- Difficult to scale across large document sets  
 
-Lexis solves this by providing **automated, scalable, and intelligent contract understanding**.
-
----
-
-## 💡 Features
-- 📄 Clause Extraction
-- ⚠️ Risk Identification
-- 🔍 Key Information Retrieval (entities, obligations)
-- 🤖 NLP-based semantic analysis
-- ⚡ Fast and scalable processing
+Lexis addresses this by providing an **automated, scalable, and context-aware contract analysis pipeline**.
 
 ---
 
-## 🧠 Tech Stack
+## ⚙️ System Architecture (RAG Pipeline)
+
+1. **Document Ingestion**
+   - Upload and parse contract documents  
+
+2. **Text Chunking**
+   - Split documents into semantically meaningful chunks  
+
+3. **Embedding Generation**
+   - Convert text into vector representations  
+
+4. **Vector Storage**
+   - Store embeddings in a vector database for retrieval  
+
+5. **Retrieval**
+   - Fetch relevant chunks based on query/context  
+
+6. **LLM Reasoning**
+   - Use LLM to generate structured outputs:
+     - Clause extraction  
+     - Risk identification  
+     - Entity recognition  
+
+---
+
+## 💡 Key Features
+- 📄 Clause Extraction (legal structure understanding)  
+- ⚠️ Risk Detection (context-aware analysis)  
+- 🔍 Entity & Obligation Extraction  
+- 🤖 LLM-powered semantic reasoning  
+- ⚡ Scalable document processing pipeline  
+
+---
+
+## 🛠️ Tech Stack
 - **Language:** Python  
-- **Libraries:** NLP, Machine Learning  
+- **LLM / NLP:** chatgpt nano 5  
 - **Frameworks:** Streamlit  
-- **Tools:** VS Code, Git  
+- **Vector DB:**  FAISS 
+- **Tools:** Git, VS Code  
 
 ---
 
-## ⚙️ How to Run
+
+---
+
+## 🚀 How to Run
 
 ```bash
-# Clone the repo
 git clone https://github.com/VarshiniE25/Lexis.git
-
-# Navigate
 cd Lexis
 
-# Create virtual environment
 python -m venv venv
 venv\Scripts\activate
 
-# Install dependencies
 pip install -r requirements.txt
 
-# Run the app
 python app.py
