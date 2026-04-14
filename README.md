@@ -28,7 +28,7 @@ Lexis solves this by providing **automated, scalable, and intelligent contract u
 ## 🧠 Tech Stack
 - **Language:** Python  
 - **Libraries:** NLP, Machine Learning  
-- **Frameworks:** (Add if used: Streamlit / Gradio)  
+- **Frameworks:** Streamlit  
 - **Tools:** VS Code, Git  
 
 ---
